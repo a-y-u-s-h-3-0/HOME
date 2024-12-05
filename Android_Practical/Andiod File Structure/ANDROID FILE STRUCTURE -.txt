@@ -1,0 +1,33 @@
+ANDROID FILE STRUCTURE :-
+
+				1.) manifest :
+						=> AndroidMainfest.XML :
+				
+							THIS FILE CONTAIN INFORMATION REGARDING YOUR ANDROID APPLICATION FOR EX LIKE APPNAME,APPLOGO,ACTIVITIES,APP PERMISSION ETC.
+				
+
+
+				2.) java :
+	
+					=> com>example>app@ :
+		
+								THIS FOLDER CONTAIN ALL THE CODE OF ANDROID APP  FOR EXMAPLE LIKE  ACTIVITY,FRAGEMENTS,ADAPTER,CLASS INTERFACES ETC.
+
+				
+				3.) res :
+			
+					=> drawable : 
+							
+							IT CONTAIN STYLINF FILE(CSS) AND IMAGES.
+
+					=> layout :
+							IT CONTAIN DESIGN CODE OF ACTIVITY AND FRAGEMENTS.
+
+
+					=> mipmap :  IT CONTAIN ONLY IMAGE .
+
+
+
+					=> values :  
+						=> colors.xml : COLOR RESOURCE OF ANDROID APP.
+						=> string>xml : STRING RESOURCE OF ANDROID APP.
